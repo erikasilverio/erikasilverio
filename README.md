@@ -1,19 +1,17 @@
-### Olá! Eu sou a Erika 👋
+### Hi, I'm Erika 👋![MuaKissGIF](https://user-images.githubusercontent.com/123373495/224063704-33c20402-cc90-438e-b054-cf61f5d9dd35.gif)
 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🌱 I'm currently learning programming.
+- 🤔 I'm looking for help with HTML, JavaScript, CSS, Python, QA Testing, C#, TypeScript, Visual Basic, UX/UI.
+- 😄 Pronouns: she/her
 
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikasilverio&show_icons=true&theme=radical)
 
 ##
+![UghGIF](https://user-images.githubusercontent.com/123373495/224063925-ba3b48a5-b215-40c3-9030-e9f4f081acff.gif)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikasilverio)](https://github.com/erikasilverio/github-readme-stats)
 ##
@@ -27,8 +25,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
-  
 
 
 ##
