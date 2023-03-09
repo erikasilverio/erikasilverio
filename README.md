@@ -12,16 +12,17 @@ Hi, I'm Erika 👋
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikasilverio&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikasilverio&show_icons=true&theme=radical)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Erika%20Silverio&theme=dracula)](https://git.io/streak-stats)
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikasilverio)](https://github.com/erikasilverio/github-readme-stats)
 
 ##
+
 
 <img align="center" alt="Js" height="200" width="280" src="https://user-images.githubusercontent.com/123373495/224063925-ba3b48a5-b215-40c3-9030-e9f4f081acff.gif">
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikasilverio)](https://github.com/erikasilverio/github-readme-stats)
-##
 
 
 <div style="display: inline_block"><br>
@@ -50,3 +51,6 @@ Hi, I'm Erika 👋
 
   
   ##
+  
+  
+
