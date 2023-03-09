@@ -1,5 +1,7 @@
-### Hi, I'm Erika 👋
+### 
+Hi, I'm Erika 👋
 ##
+
 <img align="center" alt="Js" height="150" width="160" src="https://user-images.githubusercontent.com/123373495/224064320-6db5bb95-8e9e-4672-b9bb-120f20ae410e.gif"><img align="center" alt="Linux " height="150" width="160" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 
 ##
@@ -32,9 +34,7 @@
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
   <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  
-
-  
+   
 
 ##
 
