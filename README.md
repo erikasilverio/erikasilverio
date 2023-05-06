@@ -6,12 +6,25 @@ Hi, I'm Erika 👋
 ##
 
 - 🌱 I'm currently learning programming over the internet by myself. 🫡
-- 🤔 I'm looking for help with HTML, JavaScript, CSS, Python, QA Testing, C#, TypeScript, Flutter,  Visual Basic, UX/UI, Figma, GitHub.😵‍💫
+- 🤔 I'm looking for help with: 
+
+##
+
+- ⭐Python
+- ⭐HTML
+- ⭐JavaScript
+- ⭐CSS 
+- ⭐QA Testing
+- ⭐TypeScript
+##
+- 🔴Visual Basic
+- 🔴UX/UI
+- 🔴Figma
+- 🔴GitHub.😵‍💫
 - 😄 Pronouns: she/her
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikasilverio&show_icons=true&theme=radical)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Erika%20Silverio&theme=dracula)](https://git.io/streak-stats)
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikasilverio)](https://github.com/erikasilverio/github-readme-stats)
 
@@ -39,25 +52,23 @@ Hi, I'm Erika 👋
    
 
 ##
-
-
-
-
-
-
-
-
 <div> 
-
-  
-  <a href="https://instagram.com/erika_silverio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/erika_silverio" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-   <a href = "mailto:cms.silverio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/erika-silverio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ <a href="https://instagram.com/erika_silverio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+   </a>
+   
+ <a href="https://www.twitch.tv/erika_silverio" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
+   </a>
+   
+ <a href = "mailto:cms.silverio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+   </a>
+   
+ <a href="https://www.linkedin.com/in/erika-silverio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+   </a> 
 
 </div>
 
-  
+ 
   ##
   
   
