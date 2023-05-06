@@ -3,7 +3,7 @@ Hi, I'm Erika 👋
 - 😄 Pronouns: she/her
 ##
 
-- 🌱 I'm currently learning programming over the internet by myself. 🫡
+- 🌱 I'm currently learning programming. 🫡
 - 🤔 I'm looking for help with: 
 
 ##
