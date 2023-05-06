@@ -1,8 +1,6 @@
 ### 
 Hi, I'm Erika 👋
-##
-
-
+- 😄 Pronouns: she/her
 ##
 
 - 🌱 I'm currently learning programming over the internet by myself. 🫡
@@ -21,9 +19,8 @@ Hi, I'm Erika 👋
 - 🔴UX/UI
 - 🔴Figma
 - 🔴GitHub.😵‍💫
-- 😄 Pronouns: she/her
 
-##
+
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikasilverio)](https://github.com/erikasilverio/github-readme-stats)
