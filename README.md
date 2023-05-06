@@ -2,7 +2,6 @@
 Hi, I'm Erika 👋
 ##
 
-<img align="center" alt="Js" height="150" width="160" src="https://user-images.githubusercontent.com/123373495/224064320-6db5bb95-8e9e-4672-b9bb-120f20ae410e.gif"><img align="center" alt="Linux " height="150" width="160" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 
 ##
 
