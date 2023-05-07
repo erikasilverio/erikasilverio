@@ -18,7 +18,7 @@ Hi, I'm Erika 👋
 - 🔴Visual Basic
 - 🔴UX/UI
 - 🔴Figma
-- 🔴GitHub.😵‍💫
+- 🔴GitHub😵‍💫
 
 
 ##
