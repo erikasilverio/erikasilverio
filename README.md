@@ -1,24 +1,28 @@
 ### 
+
 Hi, I'm Erika 👋
 
-- 😄 Pronouns: she/her
+🌱
+I am a programming and UX/UI design enthusiast, passionate about creating incredible digital experiences.
+
+Here, you will find projects that combine my passion for programming logic with the power of design to create exceptional products.
+
+Explore my projects, delve into the source code, and discover practical and elegant solutions. I share my development process, challenges faced, and solutions.
+
+I love collaborating and learning from other developers.
+
 
 ##
 
-- 🌱 I'm currently learning programming.
-- 🤩 I'm looking: 
+⭐Python⭐HTML⭐JavaScript⭐CSS ⭐QA Testing⭐TypeScript⭐️Visual Basic
 
 ##
 
-- ⭐Python - ⭐HTML - ⭐JavaScript - ⭐CSS - ⭐QA Testing - ⭐TypeScript - ⭐️Visual Basic
+🔴UX/UI🔴Figma
 
 ##
 
-- 🔴UX/UI - 🔴Figma
-
-##
-- 🛜 GitHub
-
+🛜 GitHub
 
 ##
 
