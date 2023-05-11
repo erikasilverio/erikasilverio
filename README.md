@@ -10,19 +10,14 @@ Hi, I'm Erika 👋
 
 ##
 
-- ⭐Python
-- ⭐HTML
-- ⭐JavaScript
-- ⭐CSS 
-- ⭐QA Testing
-- ⭐TypeScript
-- ⭐️Visual Basic
+- ⭐Python - ⭐HTML - ⭐JavaScript - ⭐CSS - ⭐QA Testing - ⭐TypeScript - ⭐️Visual Basic
 
 ##
 
-- 🔴UX/UI
-- 🔴Figma
-- 🔴GitHub
+- 🔴UX/UI - 🔴Figma
+
+##
+- 🛜 GitHub
 
 
 ##
