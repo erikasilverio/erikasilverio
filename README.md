@@ -3,8 +3,8 @@ Hi, I'm Erika 👋
 - 😄 Pronouns: she/her
 ##
 
-- 🌱 I'm currently learning programming. 🫡
-- 🤔 I'm looking for help with: 
+- 🌱 I'm currently learning programming.
+- 🤔 I'm looking: 
 
 ##
 
