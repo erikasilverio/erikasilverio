@@ -1,10 +1,12 @@
 ### 
 Hi, I'm Erika 👋
+
 - 😄 Pronouns: she/her
+
 ##
 
 - 🌱 I'm currently learning programming.
-- 🤔 I'm looking: 
+- 🤩 I'm looking: 
 
 ##
 
@@ -14,11 +16,13 @@ Hi, I'm Erika 👋
 - ⭐CSS 
 - ⭐QA Testing
 - ⭐TypeScript
+- ⭐️Visual Basic
+
 ##
-- 🔴Visual Basic
+
 - 🔴UX/UI
 - 🔴Figma
-- 🔴GitHub😵‍💫
+- 🔴GitHub
 
 
 ##
