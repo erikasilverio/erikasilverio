@@ -45,10 +45,7 @@ I love collaborating and learning from other developers.
 ##
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikasilverio&langs_count=8)](https://github.com/erikasilverio/github-readme-stats)
-
-
-   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikasilverio)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
