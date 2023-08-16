@@ -57,7 +57,7 @@ I love collaborating and learning from other developers.
  <a href="https://www.linkedin.com/in/erika-silverio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    </a> 
    
- <a href="https://www.behance.net/erikasilverio" target="_blank"><img src="https://iconos8.es/icon/Y6JKFKydve3L/behance" target="_blank">
+ <a href="https://www.behance.net/erikasilverio" target="_blank"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" target="_blank">
    </a> 
 
 
