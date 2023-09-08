@@ -1,6 +1,6 @@
 ##
 
-Hi, I'm Erika 👋
+Hi, I'm Erika 👋 👩‍💻
 
 🌱
 I am a programming and UX/UI design enthusiast, passionate about creating incredible digital experiences.
@@ -50,7 +50,7 @@ I love collaborating and learning from other developers.
 
 ##
 
- 
+ 🌐 Socials:
 
  <a href = "mailto:cms.silverio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
    </a>
