@@ -39,9 +39,6 @@ I love collaborating and learning from other developers.
 
 🔴UX/UI🔴Figma
 
-##
-
-🛜 GitHub
 
 ##
 
