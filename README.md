@@ -25,6 +25,7 @@ I love collaborating and learning from other developers.
   <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
    <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+ 
                                                                                                                                                     
                
    <div> 
@@ -56,9 +57,11 @@ I love collaborating and learning from other developers.
    
  <a href="https://www.linkedin.com/in/erika-silverio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    </a> 
-   
- https://www.behance.net/erikasilverio
 
+ <a href="https://www.behance.net/erikasilverio" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
+   </a>  
+
+  
 
 
 
