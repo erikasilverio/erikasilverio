@@ -29,8 +29,6 @@ I love collaborating and learning from other developers.
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikasilverio&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-
-
 ##
 
 <div style="display: inline_block"><br>
@@ -45,17 +43,7 @@ I love collaborating and learning from other developers.
                
    <div> 
 
-        
 ##
-
-⭐Python⭐HTML⭐JavaScript⭐CSS ⭐QA Testing⭐TypeScript⭐️Visual Basic
-
-##
-
-🔴UX/UI🔴Figma
-
-
-
  🌐 Socials:
 
  <a href = "mailto:cms.silverio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -74,7 +62,7 @@ I love collaborating and learning from other developers.
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{erikasilverio}/count.svg" /></p> 
 <br>
 </div>
   
